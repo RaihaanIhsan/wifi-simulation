@@ -334,7 +334,7 @@ export default function WiFiModel() {
         <div style={{ position: "absolute", inset: 0, background: "repeating-linear-gradient(0deg, transparent, transparent 39px, rgba(0,200,255,0.03) 40px), repeating-linear-gradient(90deg, transparent, transparent 39px, rgba(0,200,255,0.03) 40px)" }} />
         <div style={{ position: "relative" }}>
           <h1 style={{ margin: 0, fontSize: "clamp(22px,4vw,36px)", fontWeight: 700, letterSpacing: 1, color: "white" }}>
-            University WiFi <span style={{ color: "#00ccff" }}>Load & Failure</span> Model
+            📶 University WiFi <span style={{ color: "#00ccff" }}>Load & Failure</span> Model
           </h1>
           <p style={{ margin: "8px 0 0", color: "#aabbcc", fontSize: 15 }}>
             Poisson arrivals · 4-State Markov Chain · Real-time Monte Carlo Simulation
